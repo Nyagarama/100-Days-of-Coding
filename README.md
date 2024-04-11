@@ -5,3 +5,4 @@ Goals:
 3. Embrace coding as a continuous personal growth journey in software engineering and lifelong learning.
 4. Foster accountability by sharing work openly.
 5. Increase job prospects as a software engineer by posting progress on LinkedIn.
+#Learn, Practice, Post (LPP)
