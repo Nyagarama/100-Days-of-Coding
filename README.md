@@ -1,5 +1,5 @@
-## 100DaysofAlxSE
-### Aim
+# 100DaysofAlxSE
+## Aim
 > To improve my coding skills
 ### Goals 
 > 1. Maintain consistency and discipline in coding habits. 
